@@ -1,5 +1,7 @@
 # Dimple Sharma — Portfolio
 
+**🔗 Live Portfolio: [dimple-sharma-portfolio.vercel.app](https://dimple-sharma-portfolio.vercel.app)**
+
 Personal portfolio of **Dimple Sharma**, an AI/ML engineer building practical intelligent
 systems: machine learning, computer vision, RAG, AI agents and automation.
 
@@ -80,6 +82,9 @@ it to `public/` and set `image: '/your-file.webp'` on the project.
 Set `links.resume = null` in `site.ts` to hide every resume button.
 
 ## Deployment
+
+The live site is hosted on [Vercel](https://vercel.com/) (Hobby plan). Build settings
+are pinned in `vercel.json`, and `.vercelignore` keeps local-only files out of CLI uploads.
 
 Any static host works. Typical settings:
 

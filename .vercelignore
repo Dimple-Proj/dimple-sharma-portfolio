@@ -1,0 +1,8 @@
+# Keep local-only and personal files out of CLI uploads
+.env*
+.claude/
+dist/
+node_modules/
+New Resume/
+Dimple Sharma Resume.pdf
+Autonomous SE/

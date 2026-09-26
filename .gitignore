@@ -49,3 +49,6 @@ desktop.ini
 New Resume/
 Dimple Sharma Resume.pdf
 Autonomous SE/
+
+.vercel
+.env*
